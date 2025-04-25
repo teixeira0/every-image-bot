@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "@atproto/api": "^0.13.18",
+    "canvas": "^3.1.0",
     "zod": "^3.23.8"
   }
 }
